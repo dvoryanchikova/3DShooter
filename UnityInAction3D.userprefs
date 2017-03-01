@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Fireball.cs">
+    <Files>
+      <File FileName="Assets/SceneController.cs" Line="18" Column="1" />
+      <File FileName="Assets/WanderingAI.cs" Line="35" Column="6" />
+      <File FileName="Assets/PlayerCharacter.cs" Line="13" Column="36" />
+      <File FileName="Assets/Fireball.cs" Line="17" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityInAction3D" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Fireball.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
